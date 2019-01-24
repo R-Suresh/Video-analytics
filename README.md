@@ -30,6 +30,7 @@ Applications of found of retail based video analytics.
    * Sample no logo dataset "Visual Object Classes Challenge 2012 Dataset"
 * Text Detection in images API -
    * OpenCV EAST
+   * [Tesseract 4](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
    * pytesseract 
    Ip : Images with text<br>
    Op : Text in images<br>
