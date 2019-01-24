@@ -38,6 +38,7 @@ Applications of found of retail based video analytics.
    * Tensorflow detection model zoo
    * Keras object detection YOLO
    * [YOLO Working model](https://pjreddie.com/darknet/yolo/)
+* [OCR models](https://github.com/kba/awesome-ocr)
    
    
    
