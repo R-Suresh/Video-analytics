@@ -1,0 +1,3 @@
+To do -
+
+See Nipun Batra's code for keras matrix factorization and then add as recommender systems
