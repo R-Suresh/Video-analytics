@@ -82,7 +82,7 @@ pycparser==2.19
 PyDispatcher==2.0.5
 pydot==1.4.1
 pydotplus==2.0.2
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyocr==0.5.3
 pyparsing==2.3.1
